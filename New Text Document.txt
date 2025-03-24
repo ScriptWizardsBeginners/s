@@ -1,0 +1,89 @@
+{
+    "editor.mouseWheelZoom": true,
+      "editor.minimap.enabled": false,
+      "editor.wordWrap": "on",
+      "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+      },
+      "liveServer.settings.donotShowInfoMsg": true,
+      "bracket-pair-colorizer-2.depreciation-notice": false,
+      "tabnine.experimentalAutoImports": true,
+      "explorer.confirmDelete": false,
+      "explorer.confirmDragAndDrop": false,
+      "files.autoSave": "afterDelay",
+      "files.autoSaveDelay": 1,
+      "editor.formatOnSave": false,
+      "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "editor.guides.bracketPairs": "active",
+      "editor.minimap.autohide": true,
+      "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "editor.formatOnPaste": false,
+      "editor.formatOnType": false,
+      "editor.fontSize": 20,
+      "editor.stickyScroll.enabled": false,
+      "liveServer.settings.donotVerifyTags": true,
+      "terminal.integrated.enableMultiLinePasteWarning": false,
+      "editor.cursorSmoothCaretAnimation": "on",
+      "workbench.list.smoothScrolling": true,
+      "editor.cursorBlinking": "expand",
+      "animations.Install-Method": "Apc Customize UI++",
+      "apc.imports": [
+        "file:///c:/Users/Home/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.4/dist/updateHandler.js"
+      ],
+      "workbench.productIconTheme": "developer-icons",
+      "workbench.editor.empty.hint": "hidden",
+      "workbench.iconTheme": "material-icon-theme",
+      "workbench.colorTheme": "Ayu Dark Bordered"
+    }
+  {
+    "editor.mouseWheelZoom": true,
+      "editor.minimap.enabled": false,
+      "editor.wordWrap": "on",
+      "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+      },
+      "liveServer.settings.donotShowInfoMsg": true,
+      "bracket-pair-colorizer-2.depreciation-notice": false,
+      "tabnine.experimentalAutoImports": true,
+      "explorer.confirmDelete": false,
+      "explorer.confirmDragAndDrop": false,
+      "files.autoSave": "afterDelay",
+      "files.autoSaveDelay": 1,
+      "editor.formatOnSave": false,
+      "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "editor.guides.bracketPairs": "active",
+      "editor.minimap.autohide": true,
+      "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "editor.formatOnPaste": false,
+      "editor.formatOnType": false,
+      "editor.fontSize": 20,
+      "editor.stickyScroll.enabled": false,
+      "liveServer.settings.donotVerifyTags": true,
+      "terminal.integrated.enableMultiLinePasteWarning": false,
+      "editor.cursorSmoothCaretAnimation": "on",
+      "workbench.list.smoothScrolling": true,
+      "editor.cursorBlinking": "expand",
+      "animations.Install-Method": "Apc Customize UI++",
+      "apc.imports": [
+        "file:///c:/Users/Home/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.4/dist/updateHandler.js"
+      ],
+      "workbench.productIconTheme": "developer-icons",
+      "workbench.editor.empty.hint": "hidden",
+      "workbench.iconTheme": "material-icon-theme",
+      "workbench.colorTheme": "Ayu Dark Bordered"
+    }
+  
